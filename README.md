@@ -19,8 +19,6 @@ A responsive and interactive bookstore interface built with **React.js**, **Tail
 |-----------|-------------|-------------|
 | ![Home](./screenshots/bookstore_homepage.png) | ![Course](./screenshots/bookstore_course.png) | ![Signup](./screenshots/bookstore_signup.png) |
 
-> 📝 Place your screenshots inside a `screenshots/` folder in your project directory.
-
 ---
 ## 🧑‍💻 How to Run Locally
 
