@@ -15,11 +15,11 @@ A responsive and interactive bookstore interface built with **React.js**, **Tail
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here – like home page, book cards, responsive views, etc.)*  
-> You can use the GitHub `/screenshots` folder and embed images like:
+| Home Page | Course Page | Signup Page |
+|-----------|-------------|-------------|
+| ![Home](./screenshots/bookstore_homepage.png) | ![Course](./screenshots/bookstore_course.png) | ![Signup](./screenshots/bookstore_signup.png) |
 
-```markdown
-![Home Page](./screenshots/homepage.png)
+> 📝 Place your screenshots inside a `screenshots/` folder in your project directory.
 
 ---
 ## 🧑‍💻 How to Run Locally
