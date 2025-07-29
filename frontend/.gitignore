@@ -22,6 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 # Ignore node_modules
 node_modules/
 
@@ -36,3 +37,5 @@ yarn-error.log
 # Ignore OS files
 .DS_Store
 Thumbs.db
+=======
+>>>>>>> 20e288ccfc57be25cfbb9c5467db4342adeaf7f6
